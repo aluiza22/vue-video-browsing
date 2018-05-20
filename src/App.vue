@@ -13,7 +13,7 @@
 	import SearchBar from './components/SearchBar';
 	import VideoList from './components/VideoList';
 	import VideoDetail from './components/VideoDetail';
-	const API_KEY = 'AIzaSyD7tD-QRyyJ_mevC2ATaS6Jo8VPcmnnZtA';
+	const API_KEY = 'bananas';
 
 	export default {
 		name: 'App',
